@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1422367973 source:c:\users\kalyan\desktop\graphicsproject\display.cpp
+	"display.h"
+	<math.h>
+	<iostream>
+
+1422367395 c:\users\kalyan\desktop\graphicsproject\display.h
+	<GL/glut.h>
+	<GL/gl.h>
+
+1425285797 source:c:\users\kalyan\desktop\graphicsproject\main.cpp
+	<iostream>
+	"Disp.h"
+	"CVECTOR.h"
+	"matrix.h"
+	<cmath>
+	"atmsp.h"
+	<string>
+	<stdio.h>
+
+1422367974 source:c:\users\angad gautam\downloads\graphicsproject\graphicsproject\display.cpp
+	"display.h"
+	<math.h>
+	<iostream>
+
+1422367396 c:\users\angad gautam\downloads\graphicsproject\graphicsproject\display.h
+	<GL/glut.h>
+	<GL/gl.h>
+
+1423418113 source:c:\users\angad gautam\downloads\graphicsproject\graphicsproject\main.cpp
+	<iostream>
+	"Disp.h"
+	"CVECTOR.h"
+	"matrix.h"
+	<cmath>
+
+1423407069 c:\users\angad gautam\downloads\graphicsproject\graphicsproject\disp.h
+	<GL/glut.h>
+	<GL/gl.h>
+
+1422715494 c:\users\angad gautam\downloads\graphicsproject\graphicsproject\cvector.h
+	<cmath>
+	<iostream>
+
+1423311613 c:\users\angad gautam\downloads\graphicsproject\graphicsproject\matrix.h
+	<iostream>
+	<cmath>
+
+1423156072 source:n:\graphicsproject\graphicsproject\main.cpp
+	<iostream>
+	"Disp.h"
+	"CVECTOR.h"
+	"matrix.h"
+
+1423154164 n:\graphicsproject\graphicsproject\disp.h
+	<GL/glut.h>
+	<GL/gl.h>
+
+1422715494 n:\graphicsproject\graphicsproject\cvector.h
+	<cmath>
+	<iostream>
+
+1423070660 n:\graphicsproject\graphicsproject\matrix.h
+	<iostream>
+	<cmath>
+
+1423157362 source:j:\graphicsproject\graphicsproject\main.cpp
+	<iostream>
+	"Disp.h"
+	"CVECTOR.h"
+	"matrix.h"
+
+1423154164 j:\graphicsproject\graphicsproject\disp.h
+	<GL/glut.h>
+	<GL/gl.h>
+
+1422715494 j:\graphicsproject\graphicsproject\cvector.h
+	<cmath>
+	<iostream>
+
+1423070660 j:\graphicsproject\graphicsproject\matrix.h
+	<iostream>
+	<cmath>
+
+1424343949 source:d:\graphicsproject\graphicsproject\main.cpp
+	<iostream>
+	"Disp.h"
+	"CVECTOR.h"
+	"matrix.h"
+	<cmath>
+	"atmsp.h"
+	<string>
+	<stdio.h>
+
+1424344504 d:\graphicsproject\graphicsproject\disp.h
+	<GL/glut.h>
+	<GL/gl.h>
+	<string.h>
+	<iostream>
+	<cmath>
+
+1422715494 d:\graphicsproject\graphicsproject\cvector.h
+	<cmath>
+	<iostream>
+
+1423311613 d:\graphicsproject\graphicsproject\matrix.h
+	<iostream>
+	<cmath>
+
+1374211684 d:\graphicsproject\graphicsproject\atmsp.h
+	<string>
+	<csetjmp>
+	<cstdlib>
+	<cmath>
+
+1425290170 c:\users\kalyan\desktop\graphicsproject\disp.h
+	<GL/glut.h>
+	<GL/gl.h>
+	<string.h>
+	<iostream>
+	<cmath>
+
+1422715494 c:\users\kalyan\desktop\graphicsproject\cvector.h
+	<cmath>
+	<iostream>
+
+1423311613 c:\users\kalyan\desktop\graphicsproject\matrix.h
+	<iostream>
+	<cmath>
+
+1374211684 c:\users\kalyan\desktop\graphicsproject\atmsp.h
+	<string>
+	<csetjmp>
+	<cstdlib>
+	<cmath>
+
